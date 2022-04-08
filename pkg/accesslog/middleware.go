@@ -4,7 +4,7 @@ package accesslog
 import (
 	routing "github.com/go-ozzo/ozzo-routing/v2"
 	"github.com/go-ozzo/ozzo-routing/v2/access"
-	"github.com/qiangxue/go-rest-api/pkg/log"
+	"github.com/Michae-zHOU/melon-pay-backend/pkg/log"
 	"net/http"
 	"time"
 )

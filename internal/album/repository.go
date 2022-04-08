@@ -2,9 +2,9 @@ package album
 
 import (
 	"context"
-	"github.com/qiangxue/go-rest-api/internal/entity"
-	"github.com/qiangxue/go-rest-api/pkg/dbcontext"
-	"github.com/qiangxue/go-rest-api/pkg/log"
+	"github.com/Michae-zHOU/melon-pay-backend/internal/entity"
+	"github.com/Michae-zHOU/melon-pay-backend/pkg/dbcontext"
+	"github.com/Michae-zHOU/melon-pay-backend/pkg/log"
 )
 
 // Repository encapsulates the logic to access albums from the data source.

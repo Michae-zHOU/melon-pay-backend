@@ -3,8 +3,8 @@ package album
 import (
 	"context"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/qiangxue/go-rest-api/internal/entity"
-	"github.com/qiangxue/go-rest-api/pkg/log"
+	"github.com/Michae-zHOU/melon-pay-backend/internal/entity"
+	"github.com/Michae-zHOU/melon-pay-backend/pkg/log"
 	"time"
 )
 

@@ -5,8 +5,8 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	routing "github.com/go-ozzo/ozzo-routing/v2"
 	"github.com/go-ozzo/ozzo-routing/v2/auth"
-	"github.com/qiangxue/go-rest-api/internal/entity"
-	"github.com/qiangxue/go-rest-api/internal/errors"
+	"github.com/Michae-zHOU/melon-pay-backend/internal/entity"
+	"github.com/Michae-zHOU/melon-pay-backend/internal/errors"
 	"net/http"
 )
 

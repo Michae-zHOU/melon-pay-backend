@@ -2,9 +2,9 @@ package auth
 
 import (
 	"context"
-	"github.com/qiangxue/go-rest-api/internal/errors"
-	"github.com/qiangxue/go-rest-api/internal/test"
-	"github.com/qiangxue/go-rest-api/pkg/log"
+	"github.com/Michae-zHOU/melon-pay-backend/internal/errors"
+	"github.com/Michae-zHOU/melon-pay-backend/internal/test"
+	"github.com/Michae-zHOU/melon-pay-backend/pkg/log"
 	"net/http"
 	"testing"
 )
